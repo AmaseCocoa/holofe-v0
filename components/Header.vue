@@ -8,7 +8,7 @@ import { RiHome2Line } from '@remixicon/vue'
             <RiHome2Line size="15px" />
             <p>Home</p>
         </button>
-        <img src="https://htnmk.com/static/img/square.png" width="30" height="30">
+        <NuxtImg src="/mi-logo.png" width="30" height="30" />
         <p>a</p>
     </header>
 </template>
